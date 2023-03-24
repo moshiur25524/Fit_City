@@ -8,3 +8,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 15px;
 }
+
+.tool-image{
+    height: 86px;
+}

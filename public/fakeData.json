@@ -1,0 +1,74 @@
+ [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/G08mj29/image1.png",
+        "title": "Dumbbell",
+        "number":15,
+        "description": "A handheld weight used for resistance training",
+        "exercise_time": "30 minutes"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/Z6fLby0/image2.png",
+        "title": "Barbell",
+        "number":15,
+        "description": "A long metal bar used for weightlifting exercises",
+        "exercise_time": "60 minutes"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/VT5j4Kc/image3.png",
+        "title": "Kettlebell",
+        "number":15,
+        "description": "A cast-iron weight with a handle used for various exercises",
+        "exercise_time": "45 minutes"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/Z6fLby0/image2.png",
+        "title": "Pull-up Bar",
+        "number":15,
+        "description": "A bar used for pull-up exercises",
+        "exercise_time": "20 minutes"
+      },
+      {
+        "id": 5,
+        "img": "https://i.ibb.co/ZNQNGvt/hero-image.png",
+        "title": "Medicine Ball",
+        "number":15,
+        "description": "A heavy ball used for various exercises",
+        "exercise_time": "30 minutes"
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/VT5j4Kc/image3.png",
+        "title": "Resistance Band",
+        "number":15,
+        "description": "An elastic band used for resistance training",
+        "exercise_time": "25 minutes"
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/Z6fLby0/image2.png",
+        "title": "Exercise Mat",
+        "number":15,
+        "description": "A mat used for floor exercises",
+        "exercise_time": "10 minutes"
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/VT5j4Kc/image3.png",
+        "title": "Elliptical Machine",
+        "number":15,
+        "description": "A machine used for low-impact cardio exercises",
+        "exercise_time": "60 minutes"
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/ZNQNGvt/hero-image.png",
+        "title": "Treadmill",
+        "number":15,
+        "description": "A machine used for running or walking exercises",
+        "exercise_time": "60 minutes"
+      }
+    ]  
